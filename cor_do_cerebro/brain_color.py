@@ -1,3 +1,5 @@
+# -*- Encoding:utf-8 -*-
+
 from tkinter import *
 from user import User
 import sqlite3

@@ -1,3 +1,5 @@
+# -*- Encoding:utf-8 -*-
+
 from cerebro import Brain
 
 class User():
